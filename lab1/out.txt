@@ -1,0 +1,14 @@
+2
+2
+1
+YES
+/root/test
+/root/test/.sub
+/root/test/.sub/list_conf_d
+/root/test/.sub/list_conf_d~
+/root/test/links
+/root/test/links/list_slink
+/root/test/links/list_hlink
+/root/test/list1
+YES
+YES
